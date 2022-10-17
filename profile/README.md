@@ -6,6 +6,11 @@
 </p>
 
 
+# Data DAO
+IceGiant is on the road of building Data Dao, we are beneficial to the contract to bring all the data platform capabilities into web3, there is no central company control, allowing users to control data rights and read and write by themselves. We currently mainly support NoSQL protocols, and will support SQL and time series database protocols in the future to help web3 build a decentralized data DAO.
+
+# Motivation
+
 For the web3 field, there is currently no way to write a complete client application as easily as in web2, and make it completely decentralized. In web2, you start a database on AWS and let your client application call the database for reading and writing. But there is nothing like it in web3. You can't just write data to Ethereum, which is too expensive for most users. Storage protocols such as Filecoin and Arweave are mainly used to archive data, but they do not provide enterprise-level performance guarantee for writing and reading data.
 
 In this article, we introduce IceGiant, which is a novel solution that can realize highly scalable and decentralized NoSQL database. Using RESP as the main interactive protocol, IceGiant supports rapid, complex and decentralized development, while eliminating the need for developers to learn any new skills and languages.
