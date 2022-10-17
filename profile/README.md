@@ -6,7 +6,7 @@
 </p>
 
 
-# Data DAO
+# IceGiant Data DAO
 IceGiant is on the road of building Data Dao, we are beneficial to the contract to bring all the data platform capabilities into web3, there is no central company control, allowing users to control data rights and read and write by themselves. We currently mainly support NoSQL protocols, and will support SQL and time series database protocols in the future to help web3 build a decentralized data DAO.
 
 # Motivation
