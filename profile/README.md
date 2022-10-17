@@ -7,7 +7,7 @@
 
 
 # ***Welcome to IceGiant Data DAO***
-IceGiant is on the road of building Data Dao, we are beneficial to the contract to bring all the data platform capabilities into web3, there is no central company control, allowing users to control data rights and read and write by themselves. We currently mainly support NoSQL protocols, and will support SQL and time series database protocols in the future to help web3 build a decentralized data DAO.
+IceGiant's core goal is to build a web3 Data Dao. We use database and intelligent contract technology to bring the database retrieval capability into web3. The database platform is not controlled by the central company, so that users can control their own data permissions and reading and writing processes. At present, I mainly support NoSQL protocol, and in the future, I will support SQL and time series database protocol to help web3 build decentralized data DAO.
 
 # ***Our motivation***
 
