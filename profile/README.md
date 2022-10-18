@@ -5,7 +5,6 @@
 <img width="1269" alt="image" src="https://user-images.githubusercontent.com/34047788/196387515-1387f626-5da1-4954-8b32-4b23e73e9b1a.png">
 </p>
 
-
 # ***Welcome to IceGiant Data DAO***
 IceGiant's core goal is to build a web3 Data Dao. We use database and intelligent contract technology to bring the database retrieval capability into web3. The database platform is not controlled by the central company, so that users can control their own data permissions and reading and writing processes. At present, I mainly support NoSQL protocol, and in the future, I will support SQL and time series database protocol to help web3 build decentralized data DAO.
 
