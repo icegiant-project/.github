@@ -1,8 +1,5 @@
-
-
-
 <p align="center">
-<img width="1269" alt="image" src="https://user-images.githubusercontent.com/34047788/196387515-1387f626-5da1-4954-8b32-4b23e73e9b1a.png">
+<img width="1269" alt="image" src="https://user-images.githubusercontent.com/34047788/196452778-99e5de84-0d26-4495-a61c-e3aded031374.jpg">
 </p>
 
 # ***Welcome to IceGiant Data DAO***
