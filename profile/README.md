@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1269" alt="image" src="https://user-images.githubusercontent.com/34047788/196452778-99e5de84-0d26-4495-a61c-e3aded031374.jpg">
+<img width="1269" alt="image" src="https://res.cloudinary.com/malloc/image/upload/v1666145237/icegiant/196452778-99e5de84-0d26-4495-a61c-e3aded031374_dndugd.jpg">
 </p>
 
 # ***Welcome to IceGiant Data DAO***
