@@ -1,7 +1,4 @@
-<p align="center">
-<img width="1269" alt="image" src="https://github.com/icegiant-project/.github/assets/34047788/a7175cbc-69be-4603-8b68-c51f80d7ff70">
-</p>
-
+<img width="1351" alt="image" src="https://github.com/icegiant-project/.github/assets/34047788/f53cabbc-c877-417b-a1e3-71c99ac2357a">
 
 # IceGiant: Database DeFi Protocol
 
