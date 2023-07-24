@@ -21,9 +21,13 @@ In this new database ecology, users can not only control their own data, but als
 <table>
   <tr>
     <td align="center"><a href="https://icefiredb.xyz/"><img src="https://avatars.githubusercontent.com/u/90315333?s=200&v=4" width="100px;" alt="IceFireDB"/><br /><sub><b>IceFireDB</b></sub></a></td>
-     <td align="center"><a href="https://flowshield.xyz/"><img src="https://avatars.githubusercontent.com/u/108644717?s=200&v=4" width="110px;" alt="FlowShield"/><br /><sub><b>FlowShield</b></sub></a></td>
-    <td align="center"><a href="https://protocol.ai/"><img src="https://user-images.githubusercontent.com/34047788/188373221-4819fd05-ef2f-4e53-b784-dcfffe9c018c.png" width="100px;" alt="Protocol Labs"/><br /><sub><b>Protocol Labs</b></sub></a></td>
+      <td align="center"><a href="https://cosmos.network/"><img src="https://getcrypto.info/images/logos/cosmos.png" width="110px;" alt="Cosmos" /><br /><sub><b>Cosmos</b></sub></a></td>
+        <td align="center"><a href="https://protocol.ai/"><img src="https://user-images.githubusercontent.com/34047788/188373221-4819fd05-ef2f-4e53-b784-dcfffe9c018c.png" width="100px;" alt="Protocol Labs"/><br /><sub><b>Protocol Labs</b></sub></a></td>
      <td align="center"><a href="https://fvm.filecoin.io/"><img src="https://user-images.githubusercontent.com/34047788/220075045-48286b37-b708-4ecf-94f5-064c55e79fa3.png" width="110px;" alt="FVM"/><br /><sub><b>FVM</b></sub></a></td>
- 
+     <td align="center"><a href="https://flowshield.xyz/"><img src="https://avatars.githubusercontent.com/u/108644717?s=200&v=4" width="110px;" alt="FlowShield"/><br /><sub><b>FlowShield</b></sub></a></td>
+
+
+
 </tr>
 </table>
+
