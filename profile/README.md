@@ -4,15 +4,15 @@
 
 IceGiant is committed to building DeFi protocol for Web3 database, and introduces database storage and retrieval capabilities into Web3 by using database, smart contract, NFT and DeFi technologies. The database platform is not controlled by the centralized company, and users can control their own data permissions and access process. At present, IceGiant mainly supports NoSQL and SQL application access protocols, and will support graphs, time series and other protocols in the future to help Web3 applications quickly access decentralized data DAO.
 
-
 <p align="center">
 <img 
     src="https://github.com/icegiant-project/.github/assets/34047788/512cbdb7-fd99-4acc-8395-bb77a374da8a" 
-    height="350" border="0" alt="IceGiant">
+    height="320" border="0" alt="IceGiant">
 </p>
 
 
 In addition, IceGiant also integrates the concepts of NFT and DeFi into the database field, providing more possibilities for the development of Web3 ecology. NFT can be used to represent different data assets in the database, while DeFi can provide more efficient and secure financial management and transaction services for data DAO. This integration combines database and digital asset management, which can provide a more complete solution for data management and data asset transaction in Web3 ecosystem.
+
 
 In this new database ecology, users can not only control their own data, but also transform data into digital assets, which can be managed and traded through NFT. At the same time, DeFi can provide more perfect financial management and transaction services for data DAO, making data DAO more efficient and sustainable in the Web3 ecosystem.
 
